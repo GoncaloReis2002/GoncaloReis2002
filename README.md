@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Gonçalo Reis
+- 👀 I’m interested in coding, analyzing data, app development, with different languages
+- 🌱 I’m currently learning Python, sql, php, ...
